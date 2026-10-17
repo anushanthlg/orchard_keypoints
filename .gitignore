@@ -1,0 +1,7 @@
+orchard_keypoint_venv/
+runs/
+__pycache__/
+*.pyc
+*.pt
+orchard_keypoint_images/
+orchard_keypoint_json.json
